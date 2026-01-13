@@ -1,13 +1,12 @@
 ##👋 Hi, I’m @HenryKavadias...
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8)](https://www.linkedin.com/in/henry-kavadias-barnes/)
 
-I'm a software engineer and game designer with knowledge of technology stacks in application, web, moblie, and games development.
-I've collaborated with teams to make games and applications, aswell as my share of solo projects. 
+I'm a Software Engineer and Gameplay Programmer with hands-on experience across application, web, mobile, and game development.
+I've collaborative team projects and built a range of solo creations, giving me a strong grasp of both cooperative workflows and independent problem‑solving.
 
-I’m committed to growing my capabilities as a programmer, relishing the challenge of problem solving mixed with developing applications. 
-The journey of assembling something, testing to ensure all the pieces work together, and delivering it as a complete solution I find immensely fulfilling.
+I’m committed to expanding my capabilities through online courses and solo projects which cover Unreal Engine 5 (C++), Unity (C#), modern web development, Generative AI, and other IT disciplines.
 
-Presently, I've refining my knowledge of Full-stack development with a web developement bootcamp course, while also workling on my solo game project [Purger](https://sites.google.com/view/henrykavadias-barnes/purger).
+Presently, I'm learning the Unreal Engine with online course so I can competently make a game with it and experimenting with AI workflows with some of my older projects.
 
 ### 🔭 Projects
 - [Purger](https://sites.google.com/view/henrykavadias-barnes/purger)
