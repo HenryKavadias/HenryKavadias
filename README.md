@@ -1,4 +1,4 @@
-##👋 Hi, I’m @HenryKavadias...
+##👋 Hi, I’m Henry Kavadias-Barnes
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8)](https://www.linkedin.com/in/henry-kavadias-barnes/)
 
 I'm a Software Engineer and Gameplay Programmer with hands-on experience across application, web, mobile, and game development.
